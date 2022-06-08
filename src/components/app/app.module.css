@@ -1,0 +1,14 @@
+.main {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  justify-items: center;
+  gap: 10px;
+}
+
+.note {
+  color: red;
+  font-size: 32px;
+  font-weight: 700;
+}
