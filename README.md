@@ -11,7 +11,7 @@ For greater clarity:
 - Go to "Network" tab
 - Select 'Fast 3G'
 - Activate 'Disable cache'
-- Reload the page (cmd + R), wait for the images to appear and deactivate 'Disable cashe' back while images are loading (it's necessary for demonstration only)
+- Reload the page (cmd + R), wait for the images to appear and deactivate 'Disable cache' back while images are loading (it's necessary for demonstration only)
 
 [Open in a browser](https://progressiveimage.vercel.app/)
 <br>
