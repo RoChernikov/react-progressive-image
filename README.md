@@ -10,7 +10,7 @@ For greater clarity:
 - Open DevTools in your browser (Google Chrome, for example)
 - Go to "Network" tab
 - Select 'Fast 3G'
-- Activate 'Disable cashe'
+- Activate 'Disable cache'
 - Reload the page (cmd + R), wait for the images to appear and deactivate 'Disable cashe' back while images are loading (it's necessary for demonstration only)
 
 [Open in a browser](https://progressiveimage.vercel.app/)
